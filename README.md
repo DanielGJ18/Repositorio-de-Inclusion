@@ -1,4 +1,4 @@
-# Repositorio-de-Inclusion
+# Repositorio de Inclusion
 ## Categorías
 
 - [Cardiovasculares](./Cardiovasculares/)
